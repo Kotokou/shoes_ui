@@ -1,5 +1,25 @@
 import 'package:shoes_ui/constants/assets.dart';
 import 'package:shoes_ui/models/product_model.dart';
+import 'package:shoes_ui/models/purchase_model.dart';
+
+List<PurchaseModel> purchaseList = [
+  PurchaseModel(
+    image: Assets.basket5,
+    percentage: "20%",
+  ),
+  PurchaseModel(
+    image: Assets.basket5,
+    percentage: "50%",
+  ),
+  PurchaseModel(
+    image: Assets.basket5,
+    percentage: "10%",
+  ),
+  PurchaseModel(
+    image: Assets.basket5,
+    percentage: "15%",
+  ),
+];
 
 List<ProductModel> productList = [
   ProductModel(

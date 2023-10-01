@@ -14,6 +14,7 @@ class App extends StatelessWidget {
           DeviceType deviceType) {
         return GetMaterialApp(
           title: 'Shoes UI',
+          debugShowCheckedModeBanner: false,
           theme: AppTheme.theme,
           darkTheme: AppTheme.darkTheme,
           home: const HomeScreen(),

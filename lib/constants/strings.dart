@@ -1,7 +1,7 @@
 class Strings {
   Strings._();
 
-  static const String percentage90 = "90%";
+  static const String percentage20 = "20%";
   static const String discount = "Discount";
   static const String onYourFirstPurchase = "on your first purchase";
   static const String shopNow = "Shop now";

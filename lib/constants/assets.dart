@@ -12,6 +12,7 @@ class Assets {
   static const String home = "assets/images/home.svg";
   static const String menu = "assets/images/menu.svg";
   static const String nike = "assets/images/nike.svg";
+  static const String nikeImg = "assets/images/nike.png";
   static const String notification = "assets/images/notification.svg";
   static const String person = "assets/images/person.svg";
 }
